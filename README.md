@@ -1,7 +1,11 @@
-<h1 align="center">navigation-program-Lycee-SaintExupery-Fameck</h1>
+h1 align="center">Navigation Program - Lycée Saint-Exupéry, Fameck</h1>
 
-<p align="center">
-<a <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /></a>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python badge" /> 
+</p> 
+
+<p align="center"> 
+  A simple navigation system from point A to point B for the Lycée Saint-Exupéry (Fameck, France), written in Python. 
 </p>
 
 It's simply a navigation systeme from a point A to point B for the lycée of Saint Exupéry, Fameck, France. In python.
