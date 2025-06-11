@@ -1,7 +1,7 @@
 <h1 align="center">navigation-program-Lycee-SaintExupery-Fameck</h1>
 
 <p align="center">
-<a href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /></a>
+<a <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /></a>
 </p>
 
 It's simply a navigation systeme from a point A to point B for the lycée of Saint Exupéry, Fameck, France. In python.
